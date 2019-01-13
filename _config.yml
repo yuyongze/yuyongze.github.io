@@ -91,10 +91,13 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
+  rss: true
   twitter: false
+  email: true
   facebook: true
   google: false
   linkedin: true
+  stackoverflow: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -106,7 +109,7 @@ url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-132343383-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -123,7 +126,7 @@ url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
+# disqus: "yuyongzeblog"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
@@ -155,7 +158,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/New_York"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
