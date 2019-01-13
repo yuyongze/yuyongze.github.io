@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://yuyongze.github.io"
+url: "https://yuyongze.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -25,10 +25,7 @@ description:  Yongze Yu's personal web page
 navbar-links:
   About Me: "aboutme"
   Project: ""
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  Resources: ""
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -74,33 +71,33 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  facebook: n/a
+  github: yuyongze
+  twitter: n/a
 #  reddit: yourname
-#  google-plus: +DeanAttali
+#  google-plus: 
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+#  snapchat: n/a
+#  instagram: n/a
+#  youtube: n/a
+#  spotify: n/a
+#  telephone: n/a
+#  steam: n/a
+#  twitch: n/a
+#  yelp: n/a
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   google: false
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
