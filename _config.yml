@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Yongze Yu Website
+title: Yongze Yu's Website
 
 # Short description of your site
 description:  Yongze Yu's personal web page
@@ -23,6 +23,7 @@ description:  Yongze Yu's personal web page
 
 # List of links in the navigation bar
 navbar-links:
+  Home: ""
   About Me: "aboutme"
   Project: ""
   Resources: ""
@@ -70,7 +71,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "yuyongze2014@gmail.com"
   facebook: n/a
   github: yuyongze
   twitter: n/a
