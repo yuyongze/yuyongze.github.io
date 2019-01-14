@@ -8,7 +8,7 @@ published: true
 
  My name is **Yongze Yu**. I am a **Ph.D. candidate** in Physical Chemistry at the [Ohio State University](https://www.osu.edu/) studying in the modeling of the spectroscopy data for electron transfer on material interface and constructing machine learning models for predicting the consequences of the chemical processes. I recieved my B.S. in Chemistry at Lanzhou Univeristy.
  
- ### But, Now, I am a fan of **Data Science** and **Artificial Intelligence**. 
+ But, Now, I am a fan of **Data Science** and **Artificial Intelligence**. 
     
 - I love traveling
 - I love classical music
