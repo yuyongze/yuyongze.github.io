@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Here what I am coming from
 bigimg: /img/Mass.jpg
 tags:
