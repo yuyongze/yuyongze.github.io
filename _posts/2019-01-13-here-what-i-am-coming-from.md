@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Here what I am coming from
 bigimg: /img/Mass.jpg
 tags:
@@ -8,7 +8,6 @@ tags:
   - test
 subtitle: This is a new jernery
 date: '2019-01-13'
-image: Thumbnail
 ---
 ## A New Post
 
