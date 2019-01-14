@@ -8,7 +8,7 @@ Thanks google all the way [google search](http://google.com/cse).
 
 <script>
   (function() {
-    var cx = '017594897386966373640:ri6wipfszym';
+    var cx = '002564930813028111966:hyn5jzmyqyu';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
