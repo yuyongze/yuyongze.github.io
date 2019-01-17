@@ -20,10 +20,14 @@ I started to learn machine learning and artificial intelligence about April 2018
 ## Who as I?
 #### I had programming training when I was a child
 I had a programming training in [Logo](https://en.wikipedia.org/wiki/Logo_(programming_language)) language when I was in primary school at the age of 10. With the command "FD 100, RT 90, FD 100, RT 100, RT 90, FD 100 ", you can draw a rectangle on screen by a "turtle". 
-Then I start to learn the C language when I was in middle school. I learn what is [Variable](https://en.wikipedia.org/wiki/Variable_(computer_science)),[Pointer](https://en.wikipedia.org/wiki/Pointer_(computer_programming)), [List](https://en.wikipedia.org/wiki/List_(abstract_data_type)), and so on. I learned how to solved a lot of interesting questions like [Eight queens puzzle](https://en.wikipedia.org/wiki/Eight_queens_puzzle). That was a lot of fun. 
+Then I start to learn the C language when I was in middle school. I learn what is [Variable](https://en.wikipedia.org/wiki/Variable_(computer_science)), [Pointer](https://en.wikipedia.org/wiki/Pointer_(computer_programming)), [List](https://en.wikipedia.org/wiki/List_(abstract_data_type)), and so on. I learned how to solved a lot of interesting questions like [Eight queens puzzle](https://en.wikipedia.org/wiki/Eight_queens_puzzle). That was a lot of fun. 
 
 #### Training in other major for 10 years
 I received my B.S in Chemistry as my undergraduate. I got involved some projects relating to the materials and energies. I started my Ph.D. in physical chemistry because I like mathematics, physics, and modeling. I don't get a systematic course training on programming in college and graduate student. But, actually, I got all grade A for any courses which involve coding, for example, Kinetics using [Mathematica](https://www.wolfram.com/mathematica/) and Advance quantum mechanics (which need to use [Matlab](https://www.mathworks.com/products/matlab.html)). 
 Even if, in my research lab, I did not get so many training about coding at the beginning, most of the time is about understanding a scientific concept and collecting data from the instruments, synthesis some "cool" compounds as a Chemist, a voice from my inner heart and public advertisement from media pushed me towards a new direction, where I am now.
 
-##
+## How make the move?
+I heard a lot of voices about machine learning or artificial intelligence from outside my reasearch field, mainly from the news-- [big data era](https://www.forbes.com/sites/dorieclark/2013/08/08/four-things-you-need-to-know-in-the-big-data-era/), [AlphGo] (https://en.wikipedia.org/wiki/AlphaGo) beat human champions, [facial recognition](https://www.wired.com/story/future-of-facial-recognition-technology/) tech has been applied in new-generation iphones. All that voices drived me to start to look what is machine learning, what is AI? 
+
+#### From zero to zero point one
+I was begining in googling "machine learning course". The first watched vedios is the online open courses from caltech, giving by Professor Yaser S. Abu-Mostafa.([link]https://www.youtube.com/watch?v=mbyG85GZ0PI) The lectures introduce very fundammetnal comcepts about machine learning and learning problems. A very strong foundation of mathanmatics, linear algebra, statistics is needed to entirely understand and follow the contents. 
