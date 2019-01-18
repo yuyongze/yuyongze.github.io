@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: Here is what I am coming from
 bigimg: /img/Mass.jpg
 tags:
-  - books
-  - test
+  - tests
+  - story
 subtitle: >-
-  This is a new journey--A story of mine about how you can make a shift to data
-  scientist from non-computer science major.
+  This is a new journey--A story of me about how you can make shifts to a Data
+  Scientist from non-computer science major.
 date: '2019-01-13'
 ---
 ## Write before
