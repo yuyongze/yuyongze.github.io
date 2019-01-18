@@ -6,7 +6,9 @@ bigimg: /img/Mass.jpg
 tags:
   - books
   - test
-subtitle: This is a new journey--A story of mine about how you can make a shift to data scientist from non-computer science major.
+subtitle: >-
+  This is a new journey--A story of mine about how you can make a shift to data
+  scientist from non-computer science major.
 date: '2019-01-13'
 ---
 ## Write before
@@ -38,4 +40,4 @@ Continue from that, I stuck on the Coursera and started my online learning journ
 *(I will post the my studying experimence and notes about these Cousera courses shrotly.)*
 
 #### A stage futher--A real ML project
-While I was learning the machine learning on Cousera, 
+While I was learning the machine learning on Cousera,12312
