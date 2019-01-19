@@ -24,4 +24,3 @@ Up to now, I have finished 30 individual Courseara courses with 4 specialization
 _Now, I will list the courses/specilization I have token. Then I will give very short description and and my rating the comment for those courses._
 
 ### Courses/Specilization List
-
