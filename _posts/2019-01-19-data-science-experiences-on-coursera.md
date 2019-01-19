@@ -16,7 +16,8 @@ _So how can we start?_
 There are many data science online websites like [Coursera](https://www.coursera.org), [Udemy](https://www.udemy.com/), etc. It is easy to get start without the  too many requirements of previous expriences.   
 Up to now, I have finished 30 individual Courseara courses with 4 specializations.And I am taking the 31 and finishig the 5th specialzaitons. Therefore, I will briefly introduce you what is Coursera and how these courses/specializations look like. 
 
-### What is Coursera?![logo-coral.svg]({{site.baseurl}}/img/logo-coral.svg)
+### What is Coursera?
+![coursera_Logo.png]({{site.baseurl}}/img/coursera_Logo.png|width=100)
 
 **Coursera** (/kərˈsɛrə/) is an online learning platform founded by Stanford professors Andrew Ng and Daphne Koller that offers courses, specializations, and degrees.[[2]](https://en.wikipedia.org/wiki/Coursera) You can auditory some of the course free, but if you want to get the certificate you have to pay for it and finish the assingment. And a lot of courses are packed into a specilization, you don't have to pay for each course you just need to pay $49 per month to learn the courses in the specilization. 
 
