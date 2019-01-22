@@ -41,7 +41,7 @@ _**Main contents**: SciKit Learn, K-Nearest Neighbors, Linear regression, Logist
 - [Deep Learning Specialization] by _deeplearning.ai_  
 Recomenation: 5/5
 Notes:  Better learn after "Machine Learning", worth to learn repeatly. Recommend for each "Deep learner"   
-Comments: This specialization include 5 courses. They are taught by Prof.Andrew Ng as well. You will learn state-of-art deep learning alrightms in the field of artificial intelligence. These course include a lot of math and fundamental insights of deep learning as well as the high level buildup of how to impliment codes to build a deeplearning models. You will learn the fundamentals of how newral networks work and how to train the model step by step. Then you will know how to manage a ML project and build a ML project pipeline. Then, you will be introduced Convoluntional newral Networks(CNNs) for computer vision tasks.  
+Comments: This specialization include 5 courses. They are taught by Prof.Andrew Ng as well. You will learn state-of-art deep learning alrightms in the field of artificial intelligence. These course include a lot of math and fundamental insights of deep learning as well as the high level buildup of how to impliment codes to build a deeplearning models. You will learn the fundamentals of how newral networks work and how to train the model step by step. Then you will know how to manage a ML project and build a ML project pipeline. Then, you will be introduced Convoluntional Newral Networks(CNNs) for computer vision tasks and Recurrent Neural Networks(RNNs) for sequential tasks. The lectures covered how CNN and RNN builded methanmatically. It may be hard to digest if you first time learn Deep learning. But, it is fine, you can 
 
 
 
