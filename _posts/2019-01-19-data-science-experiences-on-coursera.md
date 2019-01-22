@@ -51,7 +51,10 @@ _**Main contents**: ANN, CNN, RNN_
 One characteristic of the specialization is the _capstone project_. You have to proposed a project from what you learn, and finish the project using the tool that learn from the class. There are a lof new thing I learned from these classes, for example, SQL and database, Web Scraping using Python and [BeautifulSoup](https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460), use of [Foursquare](https://developer.foursquare.com/docs) API, interactive map with [folium](https://python-visualization.github.io/folium/).   
 _**Main contents**: SQL,Web Scraping, API,interactive map_  
 
-
+- [(Advanced) Machine Learning with TensorFlow on Google Cloud Platform] (https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) by _Google Cloud_  
+**Recommendations:** 4 / 5  
+**Notes:** Not for beginner, it is good for people want to use GCP for ML project in product. Need some tensorflow experimence.  More about Data Engineer.  
+**Comments:** Thare are two specilaziation start with [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) and 10 courses in total.  The course would foncus on how you can use Tensorflow on the Google Could Platform. (It is not about how to write Tensorflow code) Instead of teaching the knowledge, it is more about the introduction their product on GCP. But I think it would be very helpful if the people are planning to start their ML project on GCP. For me, it feels a little bit overwhelmed at beginning and catch up and the end of specilization. The second specialization of "Advance" title, it would teach you how to build production-ready ML project on GCP. It introdeced some examples about a DNN predictive model, computer vision, nature languge processing and recommendation engineer. 
 
 
 
