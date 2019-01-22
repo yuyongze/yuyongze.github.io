@@ -1163,12 +1163,10 @@ temp2.head()
     }
 
 ```
-.dataframe tbody tr th {
-    vertical-align: top;
-}
 
-.dataframe thead th {
-    text-align: right;
+temp=pd.read_csv('train.csv',header=None)
+
+temp.head()
 }
 
 ```
