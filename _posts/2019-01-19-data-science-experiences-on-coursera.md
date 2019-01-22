@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Data Science experiences on Coursera
 subtitle: A recommended list for Data Science beginner
 date: '2018-01-19'
