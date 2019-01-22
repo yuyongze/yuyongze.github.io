@@ -6,7 +6,7 @@ subtitle: A recommended list for Data Science beginner
 date: '2018-01-19'
 tag:
   - Data Science
-  - journey
+  - story
 ---
 **Data science** is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured, similar to data mining.[[1]](https://en.wikipedia.org/wiki/Data_science#cite_note-:0-1)
 
