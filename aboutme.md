@@ -16,7 +16,8 @@ published: true
 
 What else do you need?
 
- _Want to hear my stroy? Want to know how and why I decide my career even without a Computer Science degree?_
+ _Want to hear my stroy? Want to know how and why I decide my career even without a Computer Science degree?_  
+  [here](http://yuyongze.me/blog/here-what-i-am-coming-from/)
 
 ## My history
 
