@@ -94,7 +94,7 @@ share-links-active:
   rss: true
   twitter: false
   email: true
-  facebook: true
+  facebook: false
   google: false
   linkedin: true
   stackoverflow: false
