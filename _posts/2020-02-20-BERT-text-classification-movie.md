@@ -8,7 +8,7 @@ layout: post
 published: true
 title: BERT text classification on movie sst2 dataset
 subtitle: State-of-art NLP model using transformers
-date: '2019-05-18'
+date: '2020-02-20'
 
 ---
 
